@@ -1,0 +1,34 @@
+header {
+  position: fixed;
+  top: 0;
+  height: 6.25rem;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid gray;
+  background-color: white;
+  z-index: 10;
+}
+
+.categoriesZ button {
+  width: 200px;
+  height: 40px;
+  font-size: 30px;
+  padding: 15px;
+  color: rgb(0, 37, 44);
+}
+
+h1 {
+  margin-left: 10%;
+  color: #0290ff;
+  height: 2.313rem;
+  font-family: Montserrat, sans-serif;
+  font-size: 1.875rem;
+  font-weight: bold;
+  margin-right: 2.9rem;
+}
+
+.categoriesZ {
+  width: 100%;
+  padding: 50px;
+}
